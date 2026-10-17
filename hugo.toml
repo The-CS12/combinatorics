@@ -11,8 +11,8 @@ title = "ترکیبیات به سبک ترد"
 [params]
 # توضیح کوتاه برای کل سایت بیشتر بدرد seo میخوره
 description = "یادگیری ترکیبیات با ترد"
-threads_preview_count = 3
-threads_chap_count_per_page = 2
+threads_preview_count = 4
+threads_chap_count_per_page = 5
 
 [params.banner]
 # مثلا سیستم عامل یا شبکه
@@ -44,7 +44,7 @@ text = " مگه میشه مطلبی بدون لایسنس آخه؟ لایسنس 
 [params.author]
 name = "وایتی"
 # بیوگرافی کوتاه نویسنده که زیر اسمش نمایش داده میشه
-bio = "دانشجوی علوم کامپیوتر و علاقمند به برنامه‌نویسی سطح پایین، در حال حاضر روی پروژه وبها کار می‌کنم"
+bio = "علاقه مند به حوزه ی علوم کامپیوتر و ریاضیات"
 # آدرس عکس پروفایل نویسنده 
 avatar = "/assets/static-pic/avatar.png"
 # لینک صفحه دونیت یا حمایت مالی
@@ -61,7 +61,7 @@ donate_url = "#"
 # مثال: {name = "github", url = "https://github.com/user"}
 
 social_links = [
-  {name = "گیت هابم", url = "https://github.com/user"},
+  {name = "گیت هابم", url = "https://github.com/whitey09byte"},
   {name = "تلگرام", url = "#"},
 ]
 
