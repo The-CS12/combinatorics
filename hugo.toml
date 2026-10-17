@@ -11,7 +11,7 @@ title = "ترکیبیات به سبک ترد"
 [params]
 # توضیح کوتاه برای کل سایت بیشتر بدرد seo میخوره
 description = "یادگیری ترکیبیات با ترد"
-threads_preview_count = 4
+threads_preview_count = 15
 threads_chap_count_per_page = 5
 
 [params.banner]
